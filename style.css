@@ -1,0 +1,32 @@
+body
+{
+	background-image: url(homepage1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+li
+{
+   		float:right;
+   	}
+
+ul
+{
+   		list-style-type: none;
+   		margin:center;
+   		padding:0;
+   		overflow:hidden;
+   	}
+
+a:link, a:visited
+{
+   		display: block;
+   		font-weight: bold;
+   		color: #BC8F8F;
+   		background-color: #E6E6FA;
+   		width:130px;
+   		text-align: center;
+   		padding: 8px;
+   		text-transform: uppercase;
+   	}
+
